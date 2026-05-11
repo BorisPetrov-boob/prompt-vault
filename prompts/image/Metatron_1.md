@@ -55,7 +55,7 @@ Midjourney v7
 
 ## Preview
 
-![metatron](../../previews/image/metatron_cosmic_architect.png)
+![metatron](../../previews/image/imagine_prompt_Metatron_the_celestial_architect_of_the_univer_e2e5e396-39e0-4fa6-96fe-4cc0791bd3ca_2.png)
 
 ---
 
