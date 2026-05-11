@@ -42,7 +42,7 @@ Tags
 #dreamlike
 
 Preview
-https://../../previews/image/dandelion_moon.png
+![dandelions on the moon](../../previews/image/ChatGPT_Image_10_мая_2026_г_23_57_43.png)
 
 Notes
 Best results with:
