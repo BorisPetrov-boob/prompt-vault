@@ -55,7 +55,7 @@ Midjourney v7
 
 ## Preview
 
-![dandelion moon](../../previews/image/Поле одуванчиков(medium).png)
+![A cinematic wide shot of a vast field of glowing dandelions on the Moon](../../previews/image/dandelion_moon.png)
 
 ---
 
