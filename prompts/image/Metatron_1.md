@@ -74,4 +74,3 @@ Recommended aspect ratios:
 - 16:9 cinematic
 - 21:9 ultra-wide epic scale
 
-![Metatron, the celestial architect of the universe](../../previews/image/Metatron_celestial_architect_of_the_universe_standing_in_deep_921498ea-5312-42cb-a427-087e99b0d75d_1.png)
