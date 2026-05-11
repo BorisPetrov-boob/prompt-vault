@@ -34,7 +34,7 @@ GPT - 3.5
 ---
 
 ## Preview
-![Dandelions on the Moon](../../previews/image/dandelion_moon_chatgpt.png)
+![Dandelions on the Moon](../../previews/image/A_cinematic_wide_shot_of_a_vast_field_of_glowing_dandelions_o_b134f30e-28d7-4f61-a797-c26b6ec216bf_1.png)
 
 ---
 
